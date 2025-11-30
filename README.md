@@ -1,4 +1,4 @@
-- What are some differences between interfaces and types in TypeScript?
+- What are some differences between interfaces and types in TypeScript? <br>
 = Here in type we can only define types of anything like,
 type Num = number[]; 
 const arr: Num = Array.from(set);
